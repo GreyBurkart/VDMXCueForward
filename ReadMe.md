@@ -4,7 +4,7 @@
 
 * Space is your GO button.
 * Set up your main media bin in your cue order.
-* TouchOSC remote control layout included: GO button, load status, playhead position, fade times, fader positions, next/previous cue load buttons
+* TouchOSC remote control layout included: GO button, load status, name of currently queued/playing clip as string, playhead position, fade times, fader positions, next/previous cue load buttons
 
 Creative Commons license: CC-BY-SA
 
