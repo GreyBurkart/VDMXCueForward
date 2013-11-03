@@ -7,3 +7,8 @@
 * TouchOSC remote control layout included: GO button, load status, playhead position, fade times, fader positions, next/previous cue load buttons
 
 Creative Commons license: CC-BY-SA
+
+---
+
+![](vdmxcf-vdmx.png)
+![](vdmxcf-remote.png)
